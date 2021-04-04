@@ -1,0 +1,11 @@
+{
+	"meta" : {
+		"client_id" : "client_id",
+		"client_secret" : "client_secret",
+		"redirect_uri" : "redirect_uri",
+		"controller_username" : "spotify_username_to_create_playlists_on"
+	},
+	"usernames" : [
+		"spotify_username_to_analyse"
+	]
+}
